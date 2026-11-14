@@ -31,4 +31,4 @@ proposals, team and role assignment, audit meetings, deliverables, evaluations a
 
 ## 📫 Contact
 
-- Email: oscozbautista@gmail.com## Hi there 👋
+- Email: oscozbautista@gmail.com
