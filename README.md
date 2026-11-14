@@ -27,7 +27,7 @@ proposals, team and role assignment, audit meetings, deliverables, evaluations a
 - Role-based access for admins, student teams, auditors and project directors
 - Full software requirements specification: use cases, sequence diagrams, test plan and deployment plan (co-authored with Lautaro Salvador)
 - UI prototype covering the main student and teacher flows
-- 🚧 Web app currently in development: bilingual (EN/ES) demo built with HTML, CSS and JavaScript
+- 🔗 **[Live demo](https://bautioscoz.github.io/nexum/)**: bilingual (EN/ES) web app built with HTML, CSS and JavaScript
 
 ## 📫 Contact
 
