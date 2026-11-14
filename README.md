@@ -32,3 +32,4 @@ proposals, team and role assignment, audit meetings, deliverables, evaluations a
 ## 📫 Contact
 
 - Email: oscozbautista@gmail.com
+- - LinkedIn: [linkedin.com/in/bautista-oscoz-7a37a244b](https://www.linkedin.com/in/bautista-oscoz-7a37a244b/)
